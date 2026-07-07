@@ -57,22 +57,22 @@
       <sub>Random Forest · SMOTE</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Harish115-dev/customer-segmentation-rfm"><b>🏠 Customer Segmentation</b></a><br/>
-      <sub>RFM · K-Means</sub>
+      <a href="https://github.com/Harish115-dev/customer-segmentation-rfm"><b>🏠 Customer Segmentation (RFM)</b></a><br/>
+      <sub>1M+ Transactions · K-Means</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Harish115-dev/movie-recommendation"><b>🎬 Movie Recommendation</b></a><br/>
-      <sub>Content-Based Filtering</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="#"><b>📄 PDF Form Automation App</b></a><br/>
-      <sub>coming soon — add repo link</sub>
+      <sub>Content-Based Filtering · OMDB API</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Harish115-dev/cyber_bullying-filtering"><b>💬 Cyberbullying Detection</b></a><br/>
       <sub>NLP · TF-IDF · Logistic Regression</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Harish115-dev/brew-support"><b>☕ Brew Support</b></a><br/>
+      <sub>Next.js 14 · Razorpay · MongoDB</sub>
     </td>
   </tr>
 </table>
@@ -97,10 +97,14 @@
 |---|---|---|
 | 📉 [**churn_predition_model**](https://github.com/Harish115-dev/churn_predition_model) | Predicts customer churn using machine learning | Python, Scikit-learn |
 | 🛍️ [**mall-customer-segmentation**](https://github.com/Harish115-dev/mall-customer-segmentation) | Segments mall customers by income & spending using K-Means clustering | Python, Scikit-learn |
-| ☕ [**brew-support**](https://github.com/Harish115-dev/brew-support) | Full-stack creator support platform (BuyMeCoffee clone) — Razorpay, GitHub OAuth, MongoDB | Next.js 14, MongoDB |
+| 😊 [**sentiment-analysis**](https://github.com/Harish115-dev/sentiment-analysis) | Sentiment analysis model for text classification | Python, NLP |
+| 📨 [**message_spam-filtering**](https://github.com/Harish115-dev/message_spam-filtering) | Message spam/ham classification model | Python, Scikit-learn |
+| 🏡 [**Rental_Prices_Prediction_Of_AirBnb**](https://github.com/Harish115-dev/Rental_Prices_Prediction_Of_AirBnb) | Predicts Airbnb listing prices from location, room type & host data | Python, Scikit-learn |
+| ✅ [**todo-web-app**](https://github.com/Harish115-dev/todo-web-app) | A todo web app to track tasks | JavaScript |
+| 🔑 [**password-manager**](https://github.com/Harish115-dev/password-manager) | A password manager to manage credentials | JavaScript |
+| 🎧 [**Spotify--clone**](https://github.com/Harish115-dev/Spotify--clone) | Spotify-inspired music player | HTML, CSS, JavaScript |
 
 </details>
-
 ---
 
 ## 📊 GitHub Stats
