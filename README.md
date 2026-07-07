@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9D4EDD&height=200&section=header&text=Harishchandra%20Rathwa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20and%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+</p>
 <h1 align="center">Hi 👋, I'm Harishchandra Rathwa</h1>
 <h3 align="center">Data Science & ML enthusiast turning raw data into real decisions 📊🤖</h3>
 
