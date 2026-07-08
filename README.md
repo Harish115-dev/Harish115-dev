@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9D4EDD&height=200&section=header&text=Harishchandra%20Rathwa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20and%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:9D4EDD&height=200&section=header&text=Harishchandra%20Rathwa&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 </p>
 <h1 align="center">Hi 👋, I'm Harishchandra Rathwa</h1>
-<h3 align="center">Data Science & ML enthusiast turning raw data into real decisions 📊🤖</h3>
+<h3 align="center">Turning raw data into real decisions 📊</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Machine+Learning+Engineer;Data+Scientist+%26+Python;;Scikit-learn+%C2%B7+PyTorch+%C2%B7+Flask+%C2%B7+RAG;Open+to+Freelance+%26+Full-Time+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Science+Enthusiast;Python+%C2%B7+Scikit-learn+%C2%B7+RAG;Open+to+Data+Science+%2F+ML+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,9 +19,10 @@
 ### 🧠 About Me
 
 - 🎓 Final-year **BCA** student at Vidhyadeep Institute of Management & Technology, specializing in **Data Science**
-- 🔭 Currently building end-to-end ML projects — from data cleaning to model deployment
+- 🔭 Currently building end-to-end ML projects — from data cleaning to model evaluation
 - 🌱 Exploring **RAG (Retrieval-Augmented Generation)** pipelines and applied AI
-- 💼 Seeking a **Data Science / ML internship** or freelance data projects
+- 📚 Currently learning: SQL for analytics, deployment (Flask/Docker), and deep learning (PyTorch)
+- 💼 Seeking a **Data Science internship** or freelance data projects
 - ⚡ Fun fact: I like turning messy, million-row datasets into clean business insights
 
 ---
@@ -53,22 +54,22 @@
       <sub>LangChain · FAISS · BGE-M3</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Harish115-dev/heart_failure_prediction"><b>❤️ Heart Failure Prediction</b></a><br/>
-      <sub>Random Forest · SMOTE</sub>
+      <a href="https://github.com/Harish115-dev/customer-segmentation-rfm"><b>🛍️ Customer Segmentation (RFM)</b></a><br/>
+      <sub>1M+ Transactions · K-Means</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Harish115-dev/customer-segmentation-rfm"><b>🏠 Customer Segmentation (RFM)</b></a><br/>
-      <sub>1M+ Transactions · K-Means</sub>
+      <a href="https://github.com/Harish115-dev/cyber_bullying-filtering"><b>💬 Cyberbullying Detection</b></a><br/>
+      <sub>NLP · TF-IDF · SMOTE · 94% Acc</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/Harish115-dev/movie-recommendation"><b>🎬 Movie Recommendation</b></a><br/>
-      <sub>Content-Based Filtering · OMDB API</sub>
+      <a href="https://github.com/Harish115-dev/heart_failure_prediction"><b>❤️ Heart Failure Prediction</b></a><br/>
+      <sub>Random Forest · SMOTE</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Harish115-dev/cyber_bullying-filtering"><b>💬 Cyberbullying Detection</b></a><br/>
-      <sub>NLP · TF-IDF · Logistic Regression</sub>
+      <a href="https://github.com/Harish115-dev/movie-recommendation"><b>🎬 Movie Recommendation</b></a><br/>
+      <sub>Content-Based Filtering · OMDB API</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/Harish115-dev/brew-support"><b>☕ Brew Support</b></a><br/>
@@ -96,15 +97,12 @@
 | Project | Description | Stack |
 |---|---|---|
 | 📉 [**churn_predition_model**](https://github.com/Harish115-dev/churn_predition_model) | Predicts customer churn using machine learning | Python, Scikit-learn |
-| 🛍️ [**mall-customer-segmentation**](https://github.com/Harish115-dev/mall-customer-segmentation) | Segments mall customers by income & spending using K-Means clustering | Python, Scikit-learn |
 | 😊 [**sentiment-analysis**](https://github.com/Harish115-dev/sentiment-analysis) | Sentiment analysis model for text classification | Python, NLP |
 | 📨 [**message_spam-filtering**](https://github.com/Harish115-dev/message_spam-filtering) | Message spam/ham classification model | Python, Scikit-learn |
 | 🏡 [**Rental_Prices_Prediction_Of_AirBnb**](https://github.com/Harish115-dev/Rental_Prices_Prediction_Of_AirBnb) | Predicts Airbnb listing prices from location, room type & host data | Python, Scikit-learn |
-| ✅ [**todo-web-app**](https://github.com/Harish115-dev/todo-web-app) | A todo web app to track tasks | JavaScript |
-| 🔑 [**password-manager**](https://github.com/Harish115-dev/password-manager) | A password manager to manage credentials | JavaScript |
-| 🎧 [**Spotify--clone**](https://github.com/Harish115-dev/Spotify--clone) | Spotify-inspired music player | HTML, CSS, JavaScript |
 
 </details>
+
 ---
 
 ## 📊 GitHub Stats
@@ -122,14 +120,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish115-dev&theme=tokyo-night&hide_border=true" />
 </p>
 
-> 💡 If any stats card shows an error, it's usually a temporary rate limit on the shared free API — refresh after a few minutes, or self-host your own instance for reliability.
-
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  I'm actively looking for <b>Machine Learning / Data Science</b> roles, internships, and freelance projects.<br/>
+  I'm actively looking for <b>Data Science</b> internships and freelance projects.<br/>
   Reach out — I'd love to collaborate!
 </p>
 
