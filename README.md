@@ -72,8 +72,8 @@
       <sub>Content-Based Filtering · OMDB API</sub>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/Harish115-dev/brew-support"><b>☕ Brew Support</b></a><br/>
-      <sub>Next.js 14 · Razorpay · MongoDB</sub>
+      <a href="https://github.com/Harish115-dev/resume-analyzer.git"><b>Resume Analyzeer</b></a><br/>
+      <sub>NLP · TF-IDF · LLM  · Flask</sub>
     </td>
   </tr>
 </table>
