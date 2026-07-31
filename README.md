@@ -44,34 +44,19 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-<p align="center">
-
-<a href="https://github.com/Harish115-dev/coding-assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harish115-dev&repo=coding-assistant&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Harish115-dev/resume-analyzer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harish115-dev&repo=resume-analyzer&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Harish115-dev/rag_fitness_advisor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harish115-dev&repo=rag_fitness_advisor&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Harish115-dev/customer-segmentation-rfm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harish115-dev&repo=customer-segmentation-rfm&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Harish115-dev/cyber_bullying-filtering">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harish115-dev&repo=cyber_bullying-filtering&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/Harish115-dev/Gender_Classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Harish115-dev&repo=Gender_Classification&theme=tokyonight" />
-</a>
+| Project | Tech |
+|---------|------|
+| 🤖 **[AI Coding Assistant](https://github.com/Harish115-dev/coding-assistant)** | Python • Ollama • OpenAI • CLI |
+| 📄 **[Resume Analyzer](https://github.com/Harish115-dev/resume-analyzer)** | NLP • TF-IDF • Rule Engine • LLM • Flask |
+| 🏋️ **[RAG Fitness Assistant](https://github.com/Harish115-dev/rag_fitness_advisor)** | LangChain • FAISS • BGE-M3 |
+| 🛍️ **[Customer Segmentation](https://github.com/Harish115-dev/customer-segmentation-rfm)** | RFM • K-Means • 1M+ Transactions |
+| 💬 **[Cyberbullying Detection](https://github.com/Harish115-dev/cyber_bullying-filtering)** | TF-IDF • SMOTE • Logistic Regression |
+| 👤 **[Gender Classification](https://github.com/Harish115-dev/Gender_Classification)** | PyTorch • CNN |
+| 📈 **[A/B Testing Analysis](https://github.com/Harish115-dev/A-B-testing-analysis)** | Statistics • Hypothesis Testing |
+| 🎬 **[Movie Recommendation](https://github.com/Harish115-dev/movie-recommendation)** | Content-Based • OMDb API |
+| ❤️ **[Heart Failure Prediction](https://github.com/Harish115-dev/heart_failure_prediction)** | Random Forest • SMOTE |
 
 </p>
 ### ⭐ Featured Project Spotlight
