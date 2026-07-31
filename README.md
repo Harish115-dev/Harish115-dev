@@ -46,41 +46,37 @@
 ---
 ## 🚀 Featured Projects
 
-| Project | Tech |
-|---------|------|
-| 🤖 **[AI Coding Assistant](https://github.com/Harish115-dev/coding-assistant)** | Python • Ollama • OpenAI • CLI |
-| 📄 **[Resume Analyzer](https://github.com/Harish115-dev/resume-analyzer)** | NLP • TF-IDF • Rule Engine • LLM • Flask |
-| 🏋️ **[RAG Fitness Assistant](https://github.com/Harish115-dev/rag_fitness_advisor)** | LangChain • FAISS • BGE-M3 |
-| 🛍️ **[Customer Segmentation](https://github.com/Harish115-dev/customer-segmentation-rfm)** | RFM • K-Means • 1M+ Transactions |
-| 💬 **[Cyberbullying Detection](https://github.com/Harish115-dev/cyber_bullying-filtering)** | TF-IDF • SMOTE • Logistic Regression |
-| 👤 **[Gender Classification](https://github.com/Harish115-dev/Gender_Classification)** | PyTorch • CNN |
-| 📈 **[A/B Testing Analysis](https://github.com/Harish115-dev/A-B-testing-analysis)** | Statistics • Hypothesis Testing |
-| 🎬 **[Movie Recommendation](https://github.com/Harish115-dev/movie-recommendation)** | Content-Based • OMDb API |
-| ❤️ **[Heart Failure Prediction](https://github.com/Harish115-dev/heart_failure_prediction)** | Random Forest • SMOTE |
+### 🧠 NLP & LLM
+| Project | What it does | Stack |
+|---|---|---|
+| 🤖 [**AI Coding Assistant**](https://github.com/Harish115-dev/coding-assistant) | Hybrid CLI coding assistant — runs on cloud LLM or fully offline via local Ollama | Python, Ollama, OpenAI |
+| 📄 [**Resume Analyzer**](https://github.com/Harish115-dev/resume-analyzer) | ATS-style resume scanner: section/contact checks, skill extraction, TF-IDF matching, LLM feedback layer | NLP, TF-IDF, Rule Engine, LLM, Flask |
+| 🏋️ [**RAG Fitness Advisor**](https://github.com/Harish115-dev/rag_fitness_advisor) | Semantic Q&A fitness assistant using retrieval-augmented generation | LangChain, FAISS, BGE-M3 |
+| 💬 [**Cyberbullying Detection**](https://github.com/Harish115-dev/cyber_bullying-filtering) | Text classifier for cyberbullying — **94% accuracy, 0.898 ROC-AUC** | TF-IDF, SMOTE, Logistic Regression |
+| 😊 [**Sentiment Analysis**](https://github.com/Harish115-dev/sentiment-analysis) | Text classification model for sentiment | Python, NLP |
+| 📨 [**Spam Filter**](https://github.com/Harish115-dev/message_spam-filtering) | Message spam/ham classifier | Python, Scikit-learn |
 
-</p>
-### ⭐ Featured Project Spotlight
-
-> **Cyberbullying Detection using NLP**
->
-> - 🔤 TF-IDF Feature Engineering
-> - ⚖️ SMOTE for Class Imbalance
-> - 📈 Logistic Regression
-> - 🎯 Accuracy: **94%**
-> - 📊 ROC-AUC: **0.898**
->
-> [View Repository →](https://github.com/Harish115-dev/cyber_bullying-filtering)
+### 📊 Applied ML & Predictive Modeling
+| Project | What it does | Stack |
+|---|---|---|
+| 🛍️ [**Customer Segmentation (RFM)**](https://github.com/Harish115-dev/customer-segmentation-rfm) | Segments e-commerce customers from **1M+ transactions** using RFM features | RFM, K-Means |
+| ❤️ [**Heart Failure Prediction**](https://github.com/Harish115-dev/heart_failure_prediction) | Predicts heart failure risk from clinical patient data | Random Forest, SMOTE |
+| 📉 [**Customer Churn Prediction**](https://github.com/Harish115-dev/churn_predition_model) | Predicts customer churn likelihood | Python, Scikit-learn |
+| 🏡 [**Airbnb Price Prediction**](https://github.com/Harish115-dev/Rental_Prices_Prediction_Of_AirBnb) | Predicts listing prices from location, room type & host data | Python, Scikit-learn |
+| 🎬 [**Movie Recommendation**](https://github.com/Harish115-dev/movie-recommendation) | Content-based recommender with live posters/ratings | Content-Based Filtering, OMDb API |
+| 👤 [**Gender Classification**](https://github.com/Harish115-dev/Gender_Classification) | Image-based gender classifier | PyTorch, CNN |
+| 📈 [**A/B Testing Analysis**](https://github.com/Harish115-dev/A-B-testing-analysis) | Statistical hypothesis testing on experiment data | Statistics, Hypothesis Testing |
 
 <details>
-<summary>📂 More Projects</summary>
+<summary>🌐 Full-Stack / Web Projects</summary>
 <br/>
 
 | Project | Description | Stack |
 |---|---|---|
-| 📉 [**churn_predition_model**](https://github.com/Harish115-dev/churn_predition_model) | Predicts customer churn using machine learning | Python, Scikit-learn |
-| 😊 [**sentiment-analysis**](https://github.com/Harish115-dev/sentiment-analysis) | Sentiment analysis model for text classification | Python, NLP |
-| 📨 [**message_spam-filtering**](https://github.com/Harish115-dev/message_spam-filtering) | Message spam/ham classification model | Python, Scikit-learn |
-| 🏡 [**Rental_Prices_Prediction_Of_AirBnb**](https://github.com/Harish115-dev/Rental_Prices_Prediction_Of_AirBnb) | Predicts Airbnb listing prices from location, room type & host data | Python, Scikit-learn |
+| ☕ [**brew-support**](https://github.com/Harish115-dev/brew-support) | Full-stack creator support platform (BuyMeCoffee clone) with Razorpay payments, GitHub OAuth | Next.js 14, MongoDB, NextAuth.js |
+| 🔐 [**password-manager**](https://github.com/Harish115-dev/password-manager) | Password manager app | JavaScript |
+| ✅ [**todo-web-app**](https://github.com/Harish115-dev/todo-web-app) | Task tracking web app | JavaScript |
+| 🎵 [**Spotify Clone**](https://github.com/Harish115-dev/Spotify--clone) | Spotify-inspired music player | HTML, CSS, JavaScript |
 
 </details>
 
