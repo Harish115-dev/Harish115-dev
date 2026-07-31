@@ -50,30 +50,70 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/Harish115-dev/rag_fitness_advisor"><b>🏋️ RAG Fitness Assistant</b></a><br/>
+      <a href="https://github.com/Harish115-dev/coding-assistant">
+        <b>🤖 AI Coding Assistant</b>
+      </a><br/>
+      <sub>Python · Ollama · OpenAI · CLI</sub>
+    </td>
+
+    <td align="center" width="33%">
+      <a href="https://github.com/Harish115-dev/resume-analyzer">
+        <b>📄 Resume Analyzer</b>
+      </a><br/>
+      <sub>NLP · TF-IDF · Rule Engine · LLM · Flask</sub>
+    </td>
+
+    <td align="center" width="33%">
+      <a href="https://github.com/Harish115-dev/rag_fitness_advisor">
+        <b>🏋️ RAG Fitness Assistant</b>
+      </a><br/>
       <sub>LangChain · FAISS · BGE-M3</sub>
     </td>
-    <td align="center" width="33%">
-    <td align="center" width="33%">
-      <a href="https://github.com/Harish115-dev/resume-analyzer.git"><b>Resume Analyzeer</b></a><br/>
-      <sub>NLP · TF-IDF · LLM  · Flask</sub>
-    </td>
-      <a href="https://github.com/Harish115-dev/customer-segmentation-rfm"><b>🛍️ Customer Segmentation (RFM)</b></a><br/>
-      <sub>1M+ Transactions · K-Means</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Harish115-dev/cyber_bullying-filtering"><b>💬 Cyberbullying Detection</b></a><br/>
-      <sub>NLP · TF-IDF · SMOTE · 94% Acc</sub>
-    </td>
   </tr>
+
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/Harish115-dev/heart_failure_prediction"><b>❤️ Heart Failure Prediction</b></a><br/>
-      <sub>Random Forest · SMOTE</sub>
+      <a href="https://github.com/Harish115-dev/customer-segmentation-rfm">
+        <b>🛍️ Customer Segmentation</b>
+      </a><br/>
+      <sub>RFM · K-Means · 1M+ Transactions</sub>
     </td>
+
     <td align="center" width="33%">
-      <a href="https://github.com/Harish115-dev/movie-recommendation"><b>🎬 Movie Recommendation</b></a><br/>
-      <sub>Content-Based Filtering · OMDB API</sub>
+      <a href="https://github.com/Harish115-dev/cyber_bullying-filtering">
+        <b>💬 Cyberbullying Detection</b>
+      </a><br/>
+      <sub>TF-IDF · SMOTE · Logistic Regression</sub>
+    </td>
+
+    <td align="center" width="33%">
+      <a href="https://github.com/Harish115-dev/Gender_Classification">
+        <b>👤 Gender Classification</b>
+      </a><br/>
+      <sub>PyTorch · CNN · Deep Learning</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Harish115-dev/A-B-testing-analysis">
+        <b>📈 A/B Testing Analysis</b>
+      </a><br/>
+      <sub>Statistics · Hypothesis Testing</sub>
+    </td>
+
+    <td align="center" width="33%">
+      <a href="https://github.com/Harish115-dev/movie-recommendation">
+        <b>🎬 Movie Recommendation</b>
+      </a><br/>
+      <sub>Content-Based · OMDb API</sub>
+    </td>
+
+    <td align="center" width="33%">
+      <a href="https://github.com/Harish115-dev/heart_failure_prediction">
+        <b>❤️ Heart Failure Prediction</b>
+      </a><br/>
+      <sub>Random Forest · SMOTE</sub>
     </td>
   </tr>
 </table>
