@@ -54,6 +54,10 @@
       <sub>LangChain · FAISS · BGE-M3</sub>
     </td>
     <td align="center" width="33%">
+    <td align="center" width="33%">
+      <a href="https://github.com/Harish115-dev/resume-analyzer.git"><b>Resume Analyzeer</b></a><br/>
+      <sub>NLP · TF-IDF · LLM  · Flask</sub>
+    </td>
       <a href="https://github.com/Harish115-dev/customer-segmentation-rfm"><b>🛍️ Customer Segmentation (RFM)</b></a><br/>
       <sub>1M+ Transactions · K-Means</sub>
     </td>
@@ -70,10 +74,6 @@
     <td align="center" width="33%">
       <a href="https://github.com/Harish115-dev/movie-recommendation"><b>🎬 Movie Recommendation</b></a><br/>
       <sub>Content-Based Filtering · OMDB API</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Harish115-dev/resume-analyzer.git"><b>Resume Analyzeer</b></a><br/>
-      <sub>NLP · TF-IDF · LLM  · Flask</sub>
     </td>
   </tr>
 </table>
