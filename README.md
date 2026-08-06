@@ -111,8 +111,8 @@ fun_fact: I turn messy, million-row datasets into clean business insights ✨
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harish115-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish115-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Harish115-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&border_radius=10&cache_seconds=1800" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harish115-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" />
 
 <br/>
 
@@ -120,13 +120,11 @@ fun_fact: I turn messy, million-row datasets into clean business insights ✨
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish115-dev&theme=tokyo-night&hide_border=true&radius=10" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish115-dev&theme=tokyo-night&hide_border=true&radius=10&custom_title=Harishchandra%20Rathwa's%20Contribution%20Graph" width="100%"/>
 
 </div>
 
-> **Note:** These stat cards are served by free third-party instances (github-readme-stats, streak-stats). They occasionally rate-limit or go down temporarily. If cards don't render on your GitHub profile:
-> - Wait a few minutes and refresh (often a temporary outage)
-> - Or deploy your own instance by forking [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) to Vercel for guaranteed uptime
+> **Note:** Stats above use [github-stats-extended](https://github.com/stats-organization/github-stats-extended), a more reliable fork of github-readme-stats. If a card ever fails to load, refresh after a minute — free instances can briefly rate-limit under heavy traffic.
 
 <br/>
 
